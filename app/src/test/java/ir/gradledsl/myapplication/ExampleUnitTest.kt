@@ -1,4 +1,4 @@
-package ir.fajrmarket.myapplication
+package ir.gradledsl.myapplication
 
 import org.junit.Test
 
